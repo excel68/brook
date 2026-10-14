@@ -1,1 +1,21 @@
-body { background-color: blue; }
+body { 
+    background-color: purple; 
+    color:white;
+    position:relative;
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style: none;
+    color: white;
+    background-color: black;
+}
+
+li{
+    padding: 10px;
+    margin: 20px;
+    
+
+}
